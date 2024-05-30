@@ -1,4 +1,4 @@
-.tópico {
+.tópicos {
     background: var(--azul-degrade);
     text-align: center;
     padding: 1em 0;
@@ -16,7 +16,7 @@
     justify-content: center;
 }
 
-.tópico__item {
+.tópicos__item {
     margin: 2em 0.5em;
 }
 
